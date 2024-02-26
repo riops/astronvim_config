@@ -9,4 +9,8 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "catppuccin",
+    opts = {transparent_background = true},
+  },
 }
